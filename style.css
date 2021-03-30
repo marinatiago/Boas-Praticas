@@ -1,0 +1,111 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    height: 500px;
+    width: 1366px;
+    background-image: linear-gradient(180deg, #D2A295 23.96%, #BFD1D9 100%);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+h1 {
+    color: white;
+    font-size: 72px;
+    height: 89px;
+}
+.header-p {
+    font-size: 36px;
+    color: #9D7F7F;
+    height: 88px;
+    width: 1089px;
+}
+main {
+    height: 1286px;
+    width: 1366px;
+    background:  #BFD1D9;
+}
+h2 {
+    height: 113px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.alarm {
+    display: flex;
+    height: 200px;
+    width: 1150px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.alarm-img {
+height: 200px;
+width: 200px;
+margin-right: 2rem;
+}
+.alarm-title {
+    height: 44px;
+    font-size: 36px;
+}
+.alarm-paragraph {
+    height: 113px;
+    width: 524px;
+    font-size: 30px;
+}
+.food {
+    display: flex;
+    height: 200px;
+    width: 1150px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+.food-img {
+    height: 200px;
+    width: 200px;
+    margin-right: 2rem;
+}
+.food-title {
+    height: 44px;
+    font-size: 36px;
+}
+.food-paragraph {
+    height: 113px;
+    width: 524px;
+    font-size: 30px;
+}
+.gym {
+    display: flex;
+    height: 200px;
+    width: 1150px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+.circle {
+    border-radius: 105px;
+    background: white;
+    height: 200px;
+    width: 200px;
+    margin-right: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gym-img {
+    height: 200px;
+    width: 200px;
+}
+.gym-title {
+    height: 44px;
+    font-size: 36px;
+}
+.gym-paragraph {
+    height: 113px;
+    width: 524px;
+    font-size: 30px;
+}
